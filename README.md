@@ -23,22 +23,22 @@ Concepts: Exception Handling, Control Structures, Functions
 
 Clone the repository
 
-git clone https://github.com/yourusername/smart-traffic-control-cpp.git
+git clone https://github.com/Akshat-two005/smart-traffic-exception-cpp.git
 
 
 Navigate to the folder
 
-cd smart-traffic-control-cpp
+cd smart-traffic-exception-cpp
 
 
 Compile the program
 
-g++ smart_traffic.cpp -o smart_traffic
+g++ STC.cpp -o STC
 
 
 Run the executable
 
-./smart_traffic
+./STC
 
 💡 Example
 Enter signal time (in seconds): -5
